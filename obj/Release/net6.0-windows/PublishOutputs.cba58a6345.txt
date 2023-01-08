@@ -1,0 +1,5 @@
+F:\Users\addle\source\repos\KanaTrainer\bin\Release\net6.0-windows\publish\KanaTrainer.exe
+F:\Users\addle\source\repos\KanaTrainer\bin\Release\net6.0-windows\publish\KanaTrainer.dll
+F:\Users\addle\source\repos\KanaTrainer\bin\Release\net6.0-windows\publish\KanaTrainer.deps.json
+F:\Users\addle\source\repos\KanaTrainer\bin\Release\net6.0-windows\publish\KanaTrainer.runtimeconfig.json
+F:\Users\addle\source\repos\KanaTrainer\bin\Release\net6.0-windows\publish\KanaTrainer.pdb
